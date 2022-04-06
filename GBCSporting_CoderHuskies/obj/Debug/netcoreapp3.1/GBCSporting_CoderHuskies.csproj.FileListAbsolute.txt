@@ -1,0 +1,765 @@
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\appsettings.json
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.exe
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.deps.json
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.runtimeconfig.json
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.runtimeconfig.dev.json
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.pdb
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.Views.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.Views.pdb
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.GeneratedMSBuildEditorConfig.editorconfig
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.AssemblyInfoInputs.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.AssemblyInfo.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.csproj.CoreCompileInputs.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.MvcApplicationPartsAssemblyInfo.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.MvcApplicationPartsAssemblyInfo.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorAssemblyInfo.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorAssemblyInfo.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\staticwebassets\GBCSporting_CoderHuskies.StaticWebAssets.Manifest.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\staticwebassets\GBCSporting_CoderHuskies.StaticWebAssets.xml
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\scopedcss\bundle\GBCSporting_CoderHuskies.styles.css
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.TagHelpers.input.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.TagHelpers.output.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorCoreGenerate.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorTargetAssemblyInfo.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorTargetAssemblyInfo.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.Views.pdb
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.csproj.CopyComplete
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.dll
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.pdb
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.genruntimeconfig.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.csproj.AssemblyReference.cache
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Technician\Delete.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Technician\Edit.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Technician\List.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Customer\List.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Incident\List.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Delete.cshtml.g.cs
+E:\George Brown College\Semester - 4\COMP 2139 - WEB APPLICATION DEVELOPMENT\assignment1\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Edit.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.StaticWebAssets.xml
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.exe
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.deps.json
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.runtimeconfig.json
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.runtimeconfig.dev.json
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.pdb
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.Views.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.Views.pdb
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.csproj.AssemblyReference.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.AssemblyInfoInputs.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.AssemblyInfo.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.csproj.CoreCompileInputs.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorAssemblyInfo.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorAssemblyInfo.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\staticwebassets\GBCSporting_CoderHuskies.StaticWebAssets.Manifest.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.TagHelpers.input.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.TagHelpers.output.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorCoreGenerate.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Customer\List.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Delete.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Incident\Edit.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Incident\List.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Technician\Delete.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Technician\Edit.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\Technician\List.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorTargetAssemblyInfo.cache
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.RazorTargetAssemblyInfo.cs
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.Views.pdb
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.csproj.CopyComplete
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.dll
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.pdb
+C:\Users\Nisarg Patel\Desktop\GBCSporting_CoderHuskies\obj\Debug\netcoreapp3.1\GBCSporting_CoderHuskies.genruntimeconfig.cache

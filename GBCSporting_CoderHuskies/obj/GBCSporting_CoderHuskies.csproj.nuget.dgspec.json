@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\George Brown College\\Semester - 4\\COMP 2139 - WEB APPLICATION DEVELOPMENT\\assignment2\\GBCSporting_CoderHuskies\\GBCSporting_CoderHuskies.csproj": {}
+  },
+  "projects": {
+    "E:\\George Brown College\\Semester - 4\\COMP 2139 - WEB APPLICATION DEVELOPMENT\\assignment2\\GBCSporting_CoderHuskies\\GBCSporting_CoderHuskies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\George Brown College\\Semester - 4\\COMP 2139 - WEB APPLICATION DEVELOPMENT\\assignment2\\GBCSporting_CoderHuskies\\GBCSporting_CoderHuskies.csproj",
+        "projectName": "GBCSporting_CoderHuskies",
+        "projectPath": "E:\\George Brown College\\Semester - 4\\COMP 2139 - WEB APPLICATION DEVELOPMENT\\assignment2\\GBCSporting_CoderHuskies\\GBCSporting_CoderHuskies.csproj",
+        "packagesPath": "C:\\Users\\Nisarg Patel\\.nuget\\packages\\",
+        "outputPath": "E:\\George Brown College\\Semester - 4\\COMP 2139 - WEB APPLICATION DEVELOPMENT\\assignment2\\GBCSporting_CoderHuskies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nisarg Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
